@@ -7,7 +7,7 @@ from random import randint
 import time
 
 config = {
-    'token': 'OTc4NzMyMTI5OTA1MTY4NDA1.GR8CzW.QQt5ELiTuMjd5kyc-qPzgNIVE4coxqZWMZ_bHQ',
+    'token': 'OTc4NzMyMTI5OTA1MTY4NDA1.GlPvEX.J5rWzChM3mxx2aP_ktnW_FfmWn2jQHjJ27oKMQ',
     'prefix': '/',
 }
 
